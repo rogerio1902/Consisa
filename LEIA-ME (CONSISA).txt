@@ -1,0 +1,10 @@
+Vão aí algumas informações sobre o meu teste...
+
+Login: ADM
+Senha: 123
+
+No ícone em forma de olho, se clicar e segurar, mostra a senha.
+Se não houver a pasta para armazenar os dados, o programa cria.
+Campos e botões podem ser focalizados com Alt+Letra.
+
+No mais, o programa está conforme solicitado.
